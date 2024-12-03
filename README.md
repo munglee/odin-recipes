@@ -1,6 +1,7 @@
 # Description
 The goal of this project is to build a simple functional website with 3 recipe pages.
-[The Odin Project](https://www.theodinproject.com/lessons/foundations-recipes)
+
+[Live Demo](https://munglee.github.io/odin-recipes/)
 
 # Skills demonstrated
 1. HTML
