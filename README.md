@@ -5,4 +5,6 @@ The goal of this project is to build a simple functional website with 3 recipe p
 
 # Skills demonstrated
 1. HTML
+    - use boilerplate
+    - insert links and images
 2. CSS
